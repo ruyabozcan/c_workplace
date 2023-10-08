@@ -20,14 +20,6 @@ int main()
 
 int main(){
     
-    // This is a comment
-    /*
-        This
-        is
-        a
-        multiline
-        comment
-    */
     /* escape sequence = character combination consisting of a backslash \ 
                          followed by a letter or combination of digits.
                          They specify actions within a line of text (string)
